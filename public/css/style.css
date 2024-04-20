@@ -1,0 +1,18 @@
+.bg-gray-200 {
+    background-color: #edf2f7; /* 任意の背景色を指定 */
+}
+
+.bg-black {
+    background-color: black;
+}
+.min-h-screen {
+    min-height: 100vh;
+    background-color: black;
+}
+
+.h1 {
+    align-items: center;
+    font-size: calc(6.375rem + 1.5vw);
+    color: white;
+    display: flex;
+}
