@@ -82,7 +82,7 @@
     }
 </style>
 </body>
-@endsection
+{{-- @endsection
 
 <form action="{{ route('products.search') }}" method="GET">
     @csrf
@@ -120,4 +120,4 @@
 @endif
 
 @endsection
-
+ --}}
